@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @MrGreenst0ne
-- 👀 I’m interested in doing computer stuff.
+- 👋 Hi, I’m MrGreenst0ne
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: Discord(Mr_Greenstone#3623)
 
 <!---
 MrGreenst0ne/MrGreenst0ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
